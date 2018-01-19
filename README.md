@@ -63,6 +63,7 @@ The platform on which St Mungo's database was built often provided new modules f
 
 **St Mungo's** (Mar '16 - Jan '18)
 *Client Data System Administrator*
+
 **St Mungo's** (Nov '13 - Mar '16)
 *Recovery College Administrator*
 
