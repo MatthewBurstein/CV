@@ -63,6 +63,9 @@ A 16-week intensive development bootcamp, focusing on :
 **St Mungo's** (Nov 2013 - Mar 2016)
 *Recovery College Administrator*
 
+**The Three Stags, Kennington** (Sep 2011 - Sep 2013)
+*Duty Manager*
+
 ---
 
 ## <a name="hobbies">Hobbies and interests</a>
