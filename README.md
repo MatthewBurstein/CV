@@ -20,7 +20,7 @@ My communication skills allow me to maintain strong and positive working relatio
 
 #### Logical problem-solving
 
-Using a CRM platform as the client database of a homeless charity presented a number of challenges as the system was bent to a new purpose. I excelled in using the tools provided by the platform to meet the varied needs of the organisation, for example implementing case management and support plan processes for our clients across multi-tier data structures.
+Using a CRM platform as the client database of a homeless charity presented a number of challenges as the system was customised for a new purpose. I excelled in using the tools provided by the platform to meet the varied needs of the organisation, for example implementing case management and support plan processes for our clients across multi-tier data structures.
 
 #### Self-study
 
