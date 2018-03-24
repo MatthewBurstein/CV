@@ -1,5 +1,7 @@
 ## Matthew Burstein
 
+[LinkedIn](https://www.linkedin.com/in/matthew-burstein)
+
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#hobbies)
 
 For the past 5 years I have been working for a Homeless charity, first as part of a dynamic new project, the Recovery College, and then as a database administrator. In the latter role, I worked closely with the in-house developer and was able to explore the deep satisfaction I derive from understanding and constructing complex and elegant logical systems.
@@ -7,6 +9,16 @@ For the past 5 years I have been working for a Homeless charity, first as part o
 Following these experiences, and with great excitement, I have embarked upon the Makers Academy bootcamp, wherein I will immerse myself in learning the skills, technologies and best practices needed to begin my journey as a developer.
 
 ---
+
+## Some projects I have built
+
+|Name|Description|Technologies|Testing|
+|----|-----------|------------|-------|
+|[Airport Challenge](https://github.com/MatthewBurstein/airport_challenge)|My first project at Makers Academy, 9 weeks ago. I have come far in that time...|Ruby| Rspec|
+|[chillJam](https://github.com/MatthewBurstein/chillJam)|A twitter bot for entering competitions through interaction with the Twitter API|Node.js, Express|Mocha, Chai, Zombie.js|
+|[Lintstagram](https://github.com/MatthewBurstein/Lintstagram)|A clone of a certain well known image sharing platform|Ruby, Ruby on Rails, Devise|RSpec, Capybara|
+|[Bowling Challenge](https://github.com/MatthewBurstein/bowling-challenge)|The bowling scorecard kata|Javascript, JQuery, HTML, CSS|Jasmine|
+
 
 ## <a name="skills">Skills</a>
 
