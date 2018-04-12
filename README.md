@@ -15,16 +15,16 @@ For the past 5 years I have been working for a Homeless charity, first as part o
 |Name|Description|Technologies|Testing|
 |----|-----------|------------|-------|
 |[Airport Challenge](https://github.com/MatthewBurstein/airport_challenge)|My first project at Makers Academy. Have a look to see how far I have come...|Ruby| Rspec|
+|[EMU](https://github.com/MatthewBurstein/emu)   |My final project - a new language language which transpiles to JavaScript in the browser|JavaScript, JQuery, HTML, CSS|Jasmine, Karma|
 |[chillJam](https://github.com/MatthewBurstein/chillJam)|A twitter bot for entering competitions through interaction with the Twitter API|Node.js, Express|Mocha, Chai, Zombie.js|
 |[Lintstagram](https://github.com/MatthewBurstein/Lintstagram)|A clone of a certain well known image sharing platform|Ruby, Ruby on Rails, Devise|RSpec, Capybara|
-|[Bowling Challenge](https://github.com/MatthewBurstein/bowling-challenge)|The bowling scorecard kata|Javascript, JQuery, HTML, CSS|Jasmine|
 
 
 ## <a name="skills">Skills</a>
 
 #### Excellent interpersonal communication
 
-In my previous role, I received high praise from all levels of the organisation for over a hundred pages of in-depth guidance for technical systems, which I wrote and published for users of the database. I also delivered bespoke monthly training for users and worked closely with other technical staff to solve cross-platform issues as they arose.
+In my previous role, I received high praise from all levels of the organisation for over a hundred pages of in-depth technical guidance, which I wrote and published for users of the database. I also delivered bespoke monthly training for users and worked closely with other technical staff to solve cross-platform issues as they arose.
 
 My communication skills allow me to maintain strong and positive working relationships with all my colleagues which makes collaboration a pleasure. To quote feedback from a former colleague submitted as part of my appraisal:
 
@@ -36,11 +36,11 @@ Using a CRM platform as the client database of a homeless charity presented a nu
 
 #### Self-study
 
-I have successfully taught myself a variety of complex skills, including Salesforce, Adobe InDesign and an array of sophisticated music production software. During a period of short staffing at St Mungo's, I was asked to create reports for senior management using SQL Server, which I had not used before. Under considerable time pressure I taught myself the skills necessary to retrieve the data according to the specification provided.
+I have successfully taught myself a variety of complex skills, including Salesforce, Adobe InDesign and an array of sophisticated music production software. During a period of short staffing at St Mungo's, I was asked to create reports for senior management using SQL Server, which I had not used before. Under considerable time pressure I taught myself the skills necessary to retrieve data from the database according to the specification provided.
 
 #### Dynamic innovation
 
-I joined the Recovery College early on. At that time, we were a team of two staff implementing a paradigm never before seen in the sector. I created systems and processes for much of the service, from producing the prospectus, to collecting, recording and analysing data, to managing student wellbeing. This challenge was an amazing opportunity to learn about building something from scratch while maintaining a focus on the people we were supporting. During my time there, we developed the College from a fledgling service into one receiving international praise and attention as we hosted visitors from the Netherlands, the Czech Republic and Australia.
+I joined the Recovery College early on. At that time, we were a team of two implementing a paradigm never before seen in the sector. I created systems and processes for much of the service, from producing the prospectus, to collecting, recording and analysing data, to managing student wellbeing. This challenge was an amazing opportunity to learn about building something from scratch while maintaining a focus on the people we were supporting. During my time there, we developed the College from a fledgling service into one receiving international praise and attention as we hosted visitors from the Netherlands, the Czech Republic and Australia.
 
 #### Interpreting logical structures and understanding their implications
 
