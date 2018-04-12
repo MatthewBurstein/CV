@@ -15,7 +15,7 @@ For the past 5 years I have been working for a Homeless charity, first as part o
 |Name|Description|Technologies|Testing|
 |----|-----------|------------|-------|
 |[Airport Challenge](https://github.com/MatthewBurstein/airport_challenge)|My first project at Makers Academy. Have a look to see how far I have come...|Ruby| Rspec|
-|[EMU](https://github.com/MatthewBurstein/emu)   |My final project - a new language which transpiles to JavaScript in the browser|JavaScript, JQuery, HTML, CSS|Jasmine, Karma|
+|[EMU](https://github.com/MatthewBurstein/emu)   |My final project - syntax and a transpiler for a new language written in JavaScript for the browser|JavaScript, JQuery, HTML, CSS|Jasmine, Karma|
 |[chillJam](https://github.com/MatthewBurstein/chillJam)|A twitter bot for entering competitions through interaction with the Twitter API|Node.js, Express|Mocha, Chai, Zombie.js|
 |[Lintstagram](https://github.com/MatthewBurstein/Lintstagram)|A clone of a certain well known image sharing platform|Ruby, Ruby on Rails, Devise|RSpec, Capybara|
 
