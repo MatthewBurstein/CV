@@ -14,11 +14,11 @@ For the past 5 years I have been working for a Homeless charity, first as part o
 
 |Name|Description|Technologies|Testing|
 |----|-----------|------------|-------|
+|[EMU](https://github.com/MatthewBurstein/emu)   |My final project - syntax and a transpiler for a new language, written for the browser in JavaScript. Built in 9 days.|JavaScript, JQuery, HTML, CSS|Jasmine, Karma|
+|[chillJam](https://github.com/MatthewBurstein/chillJam)|A twitter bot for entering competitions through interaction with the Twitter API. Built in week 9 of the course.|Node.js, Express|Mocha, Chai, Zombie.js|
+|[Lintstagram](https://github.com/MatthewBurstein/Lintstagram)|A clone of a certain well known image sharing platform built in a single weekend.|Ruby, Ruby on Rails, Devise|RSpec, Capybara|
 |[Airport Challenge](https://github.com/MatthewBurstein/airport_challenge)|My first project at Makers Academy. Have a look to see how far I have come...|Ruby| Rspec|
-|[EMU](https://github.com/MatthewBurstein/emu)   |My final project - syntax and a transpiler for a new language written in JavaScript for the browser|JavaScript, JQuery, HTML, CSS|Jasmine, Karma|
-|[chillJam](https://github.com/MatthewBurstein/chillJam)|A twitter bot for entering competitions through interaction with the Twitter API|Node.js, Express|Mocha, Chai, Zombie.js|
-|[Lintstagram](https://github.com/MatthewBurstein/Lintstagram)|A clone of a certain well known image sharing platform|Ruby, Ruby on Rails, Devise|RSpec, Capybara|
-
+|[Knowledgizer](https://github.com/MatthewBurstein/Knowledgizer)|My current side project - learning React from the ground up.|ReactJS, Express, Node.js, Axios|Jest Supertest|
 
 ## <a name="skills">Skills</a>
 
@@ -32,19 +32,15 @@ My communication skills allow me to maintain strong and positive working relatio
 
 #### Logical problem-solving
 
-Using a CRM platform as the client database of a homeless charity presented a number of challenges as the system was customised for a new purpose. I excelled in using the tools provided by the platform to meet the varied needs of the organisation, for example implementing case management and support plan processes for our clients across multi-tier data structures.
+At Makers Academy I was the go-to person in my cohort when other students were stuck, even if I was not working on the same project or technology. While creating a new language for our final project, I intuited solutions to a number of problems the team faced when working at a high level of abstraction, for example using recursion to process the abstract syntax tree, despite not having encountered these techniques before.
 
 #### Self-study
 
-I have successfully taught myself a variety of complex skills, including Salesforce, Adobe InDesign and an array of sophisticated music production software. During a period of short staffing at St Mungo's, I was asked to create reports for senior management using SQL Server, which I had not used before. Under considerable time pressure I taught myself the skills necessary to retrieve data from the database according to the specification provided.
+I am currently teaching myself React via the side project linked above. I began this project while still attending Makers Academy because I am enthusiastic about learning new technologies, and through building it I have improved my understanding of a number of coding concepts including async. In addition, I have previously successfully taught myself a variety of complex skills, including Salesforce, Adobe InDesign, SQL reporting and an array of sophisticated music production software.
 
 #### Dynamic innovation
 
 I joined the Recovery College early on. At that time, we were a team of two implementing a paradigm never before seen in the sector. I created systems and processes for much of the service, from producing the prospectus, to collecting, recording and analysing data, to managing student wellbeing. This challenge was an amazing opportunity to learn about building something from scratch while maintaining a focus on the people we were supporting. During my time there, we developed the College from a fledgling service into one receiving international praise and attention as we hosted visitors from the Netherlands, the Czech Republic and Australia.
-
-#### Interpreting logical structures and understanding their implications
-
-The platform on which St Mungo's database was built often provided new modules for the system. I was responsible for studying these updates and identifying any risks their implementation might pose. If I deemed them problematic, I would build the functionality safely myself. I loved discovering the structure of these modules, and I look forward to exploring this skill further as a developer.
 
 ---
 
